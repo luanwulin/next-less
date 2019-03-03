@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": "zeit/next-plugins",
   "dependencies": {
-    "@zeit/next-css": "git+https://git@github.com/luanwulin/next-less.git",
+    "@zeit/next-css": "git+https://git@github.com/luanwulin/next-css.git",
     "less-loader": "4.1.0"
   },
   "devDependencies": {
