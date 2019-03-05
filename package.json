@@ -5,8 +5,9 @@
   "license": "MIT",
   "repository": "zeit/next-plugins",
   "dependencies": {
-    "less-loader": "4.1.0",
-    "less": "^2.7.3"
+    "less": "^2.7.3",
+    "less-common-loader": "^1.0.6",
+    "less-loader": "4.1.0"
   },
   "peerDependencies": {
     "less": "^2.7.3"
